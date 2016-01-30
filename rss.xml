@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Restless Souls]]></title>
         <description><![CDATA[Restless Souls]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/restless-souls/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 03:56:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 04:40:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/restless-souls/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27d40fcf-284f-49cb-a001-099ca79a33a6.jpg">]]></description>
+            <link>https://thegrid.ai/restless-souls/8a6f3332-203b-4929-9b6f-fa25dedbfbbe/index.html</link>
+            <guid isPermaLink="false">8a6f3332-203b-4929-9b6f-fa25dedbfbbe</guid>
+            <pubDate>Sat, 30 Jan 2016 04:40:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ce7794c-554f-438d-b363-754ab740ac0b.png">]]></description>
-            <link>undefined7da41fa4-fe36-47b8-a7bc-0fe4e3efa9ba/index.html</link>
+            <link>https://thegrid.ai/restless-souls/7da41fa4-fe36-47b8-a7bc-0fe4e3efa9ba/index.html</link>
             <guid isPermaLink="false">7da41fa4-fe36-47b8-a7bc-0fe4e3efa9ba</guid>
             <pubDate>Sat, 30 Jan 2016 03:56:30 GMT</pubDate>
         </item>
