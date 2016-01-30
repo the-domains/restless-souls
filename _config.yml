@@ -1,0 +1,28 @@
+name: Restless Souls
+favicon: null
+layout_spectrum: 0.06480703921988606
+typography_spectrum: 0.30255116312764585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2585955017711967
+  lightness: 0.3121879897080362
+  saturation: 0.5293048461899161
+  rhythmicContrast: 0.9288469455204904
+purpose: []
